@@ -3,7 +3,7 @@ import './App.css';
 
 function App() {
     const product = {
-        name: 'Super Sneakers',
+        name: 'Super Sneakers 2',
         price: 79.99,
         description: 'Comfy, cool, and perfect for everyday adventures.'
     };
